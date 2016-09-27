@@ -8,6 +8,7 @@ general:
   branches:
     ignore:
       - v2.0.0-dev-new
+      - v2.0.0-dev-tim
 deployment:
   production:
     branch: [continuous-integration, dev]
